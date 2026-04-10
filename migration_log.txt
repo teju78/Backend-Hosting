@@ -1,0 +1,5 @@
+Migration started
+Connected to DB
+Glucose column error/exists: (1060, "Duplicate column name 'glucose'")
+news2_score column error/exists: (1060, "Duplicate column name 'news2_score'")
+Migration finished successfully
